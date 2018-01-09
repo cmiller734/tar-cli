@@ -9,4 +9,4 @@ Users can specify file extensions to include in the .tar files. If a user types 
 that are created will contain only the .svg files in that directory. If a user types "tar-cli -m -e .svg", the .tar files
 that are created will contain only the .svg files from subdirs of that directory.
 
-Installation: `npm install -S bitbucket:bamlab/tar-cli`
+Installation: `npm install -S tar-cli`
