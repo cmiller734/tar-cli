@@ -18,7 +18,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.12.2",
-    "io": "bitbucket:bamlab/io",
     "ramda": "^0.25.0",
     "tar": "^4.2.0"
   }
